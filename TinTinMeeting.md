@@ -1,23 +1,32 @@
 # TinTinMeeting
-- [Arbitrum Rollup合约解析](https://www.bilibili.com/video/BV13a411971g/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
 
-- [Arbitrum Inbox 合约与 Outbox 合约源码解读](https://www.bilibili.com/video/BV14U4y1Y7Ws/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+### Arbitrum
+- [Arbitrum Rollup合约解析](https://www.youtube.com/watch?v=9B2BNyAy3Mw&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=6) 
 
-- [从Neo黑客松到项目成功搭建，一个项目诞生的过去、现在和未来](https://www.bilibili.com/video/BV1Yg411X7Zx/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+- [Arbitrum Inbox 合约与 Outbox 合约源码解读](https://www.youtube.com/watch?v=4ZcNOilnxcw&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=7) 
 
-- [你真的了解 Arbitrum 与 Ethereum 的不同吗？Arbitrum 亚太区集成工程师 Jason 告诉你真相！](https://www.bilibili.com/video/BV1GY4y1x7hV/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+- [你真的了解 Arbitrum 与 Ethereum 的不同吗？Arbitrum 亚太区集成工程师 Jason 告诉你真相！](https://www.youtube.com/watch?v=h_qTidffHGM&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=9)
 
-- [技术分享：DFINITY Canister SDK - DFX入门实操](https://www.bilibili.com/video/BV1Y44y1g7qy/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+### NEO
 
-- [从零开启Neo智能合约开发之旅](https://www.bilibili.com/video/BV1HL4y1V7ms/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+- [从零开启Neo智能合约开发之旅](https://www.youtube.com/watch?v=TFdhEp6jdK0&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=10)
 
-- [NFT、GameFi、SocialFi、云存储，DFINITY生态上最热赛道详解](https://www.bilibili.com/video/BV1rS4y1c7ue/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+- [从Neo黑客松到项目成功搭建，一个项目诞生的过去、现在和未来](https://www.youtube.com/watch?v=EYXzbtRR06U&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=8) 
 
-- [进军Web3，Neo 让开发者无门槛进入区块链](https://www.bilibili.com/video/BV1r94y1d7VR/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+- [进军Web3，Neo 让开发者无门槛进入区块链](https://www.youtube.com/watch?v=FsXjM7FHSGY&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=13)
+
+### DFINITY
+
+- [技术分享：DFINITY Canister SDK - DFX入门实操](https://www.youtube.com/watch?v=k3gCHO0pfsg&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=11) 
+
+- [NFT、GameFi、SocialFi、云存储，DFINITY生态上最热赛道详解](https://www.youtube.com/watch?v=M5m-lPR_1Lg&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=12) 
+
+- [IC存储详解：Canister内存模型与StableMemory管理](https://www.youtube.com/watch?v=rDh6NEzoFe4&list=PLCv99tqIzSwldRGdNLvL9hXny0uACZTmJ&index=15) 
+
 
 - [Head First Cadence 深入浅出系列](https://www.bilibili.com/video/BV1va411i7L4/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
 
-- [IC存储详解：Canister内存模型与StableMemory管理](https://www.bilibili.com/video/BV14Z4y1m7VB/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
+
 
 - [Flow FT与NFT中的最佳实践](https://www.bilibili.com/video/BV1bu411q7DZ/?share_source=copy_web&vd_source=7512b723a8380a17ca0415a3f78bafcb) 
 
