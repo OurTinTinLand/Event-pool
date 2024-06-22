@@ -15,3 +15,13 @@
 - [Rust 语言揭秘：新机遇、新发展](https://twitter.com/i/spaces/1lPJqbAojydxb)
 
 - [Partisia Blockchain: Application Scenarios of Privacy Technology and Future Development](https://twitter.com/i/spaces/1YqJDgXAmloGV)
+
+- [Puffer Finance: the next big leap for Ethereum restaking?](https://twitter.com/i/spaces/1lDGLPoljyvGm)
+
+- [AI 加速者：io.net 的 GPU 网络带来了全新格局吗？](https://twitter.com/i/spaces/1nAJEadPbZRJL)
+
+- [探索Onchain Game的未来：Blade Games的ZK游戏路径](https://twitter.com/i/spaces/1vAxRvrkXOZxl)
+
+- [The Future of AI Data Intelligence Networks: DIN's Vision and Development Path](https://www.techflowpost.com/article/detail_17969.html)
+
+- [Unveiling 0G Labs: A Deep Dive into the Fastest Modular AI Chain](https://twitter.com/i/spaces/1vOGwjMzzzMKB)
