@@ -25,3 +25,9 @@
 - [技术分享｜Rust技术分享：Rust 声明宏 2.0 特性尝鲜](https://www.youtube.com/watch?v=A2Yhk5mQzhA&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=12)
 
 - [技术分享｜Rust技术分享：DragonOS龙操作系统](https://www.youtube.com/watch?v=teS67J6UGXc&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=13)
+
+- [技术分享｜Rust技术分享：CnosDBv2.4 的Rust实践](https://www.youtube.com/watch?v=xJOeM7U52DI&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=14)
+
+- [技术分享｜Rust技术分享：Rust与Zero Knowledge](https://www.youtube.com/watch?v=KqJuhi3ELhw&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=15)
+
+- [技术分享｜Rust技术分享：bevy_ecs + tacview 三维预览全球飞机/船只](https://www.youtube.com/watch?v=WCdDdbJjJqM&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=16)
