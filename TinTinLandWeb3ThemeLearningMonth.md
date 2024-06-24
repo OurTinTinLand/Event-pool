@@ -20,13 +20,21 @@
 📢 Demystifying the Path of Choosing and Establishing an #AI Project! Join us next Tuesday night for the 44th #TinTinWeekly and uncover the secrets!
 
 ⏰ Date: June 11 (Tuesday) 21:00 UTC+8
+
 🎙️ Guests:
+
 🔹 Stan, Community Lead of @din_lol_
+
 🔹 E, Head of BD at @zero1_labs
+
 🔹 @julian_kip, CEO & Co-founder of @KIPprotocol
+
 🔹 @HumanLevelJen, Chief AI Officer of @KIPprotocol
+
 🔹 @susiew20823033，Head of BD at @tarsprotocol
+
 🔹 @leehomyc，CTO of @nesaorg
+
 📍 Tune in on X Space: https://twitter.com/i/spaces/1OwGWYVjqDnxQ
 
 ## TinTinLand X 0G Labs
