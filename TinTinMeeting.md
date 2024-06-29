@@ -38,7 +38,9 @@
 
 - [主题分享｜AI如何赋能Crypto之市场预测赛道：建设者如何抓住机会？](https://www.youtube.com/watch?v=fuWzRZ_kg1E) 
 
-- [主题分享｜专注 AI 的去中心化底层协议，揭秘KIP Protocol的AI之路](https://www.youtube.com/watch?v=I9pHCoJ1qZY) 
+- [主题分享｜专注 AI 的去中心化底层协议，揭秘KIP Protocol的AI之路](https://www.youtube.com/watch?v=I9pHCoJ1qZY)
+
+- [Decentralized AI Product Deployment with KIP Protocol](https://www.youtube.com/live/KUq3Tjzff8I)
 
 ## Viction
 
