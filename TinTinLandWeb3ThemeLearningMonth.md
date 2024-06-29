@@ -162,3 +162,33 @@ Workshop:Decentralized AI Product Deployment with KIP Protocol
 
 🚀 Participate in #TinTinLand Discord and Zealy task board for collaborative learning and tasks!
 ▪️ Zealy: https://zealy.io/cw/tintinland/questboard
+
+## TinTinLand X TARS Protocol
+
+🌋 The first 【#TinTinLandWeb3LearningMonth】organized by #TinTinLand has entered its fifth week!
+
+⛴️ This week's session will be hosted by @tarsprotocol, featuring an online AMA, learning videos, and Zealy learning tasks!
+
+🚏 #TARS is an AI-driven, scalable Web3 modular infrastructure platform, designed to provide cutting-edge #AI solutions and one-stop BaaS services for projects.
+
+⏰ Monday, July 1
+
+Zealy task board launched：
+
+Join TARS Protocol's Telegram Chat、Follow TARS Protocol's X、Join TARS Protocol's Discord、Like, RT, and comment TARS Protocol's Tweet、Post & Promote TARS Protocol with hashtag: $TAI、Join TARS Protocol's AMA
+
+⏰ Monday, July 1, 20:00 UTC+8
+
+AMA: Meet TARS: The Modular AI Platform Empowering the Web3 Transition
+
+⏰ Wednesdays, July 3
+
+Mini tutorial videos：
+- Talk to TARS AI Web3 Assistant.
+- Use Voice to do the transcription
+- Ask for the rebuild for the previous answer
+
+🛠️ Join Discord for more details: https://discord.gg/65N69bdsKw
+
+🚀 Participate in the #TinTinLand Zealy task board for collaborative learning and tasks!
+▪️ Zealy: https://zealy.io/cw/tintinland/questboard
