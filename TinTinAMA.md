@@ -25,3 +25,5 @@
 - [The Future of AI Data Intelligence Networks: DIN's Vision and Development Path](https://www.techflowpost.com/article/detail_17969.html)
 
 - [Unveiling 0G Labs: A Deep Dive into the Fastest Modular AI Chain](https://twitter.com/i/spaces/1vOGwjMzzzMKB)
+
+- [KIP Protocol: Pioneer in Decentralized AI](https://twitter.com/i/spaces/1DXxyjjrwRdKM)
