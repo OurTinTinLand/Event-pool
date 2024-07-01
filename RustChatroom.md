@@ -31,3 +31,5 @@
 - [技术分享｜Rust技术分享：Rust与Zero Knowledge](https://www.youtube.com/watch?v=KqJuhi3ELhw&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=15)
 
 - [技术分享｜Rust技术分享：bevy_ecs + tacview 三维预览全球飞机/船只](https://www.youtube.com/watch?v=WCdDdbJjJqM&list=PLCv99tqIzSwmbT2oAHOfYjoiotvtqzk7a&index=16)
+
+-[技术分享｜Rust技术分享：利用 ZK 打造去中心化游戏](https://www.bilibili.com/video/BV1as421T7my/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
