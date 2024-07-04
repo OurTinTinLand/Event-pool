@@ -2,6 +2,8 @@
 
 Our current online event brands are TinTinMeeting, TinTinAMA, TinTinWeekly, Rust Room, Job Fair, Community Discussions &amp; Sharing Events, TinTin Web3 Bounty Challenge Cup; and offline event brands are TinTin DESTINATION MOON, Community &amp; Student Offline events are TinTin DESTINATION MOON, Community &amp; Learners Meetup. You can check out TinTinLand's past events here!
 
+![img_v3_02ce_9e94b5a1-b782-48fc-9a9a-f25d8134641h](https://github.com/OurTinTinLand/Event-pool/assets/101783642/43ddd3a0-fc12-486a-a6d3-3e42c75081de)
+
 ## Online Activities
 Technology Related:
 - **[TinTin Meeting](TinTinMeeting.md)** is a live online column opened by TinTinLand, focusing on the field of blockchain technology, inviting industry technical experts as well as participants to discuss the practical experience and construction effectiveness of blockchain technology, aiming to provide developers with new ideas and solutions for blockchain development.
