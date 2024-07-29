@@ -63,7 +63,15 @@
 
 ## DIN
 
-- [Workshop｜Onboard with xData and start earn by collecting data](https://www.youtube.com/watch?v=IMuryfIEHas) 
+- [Workshop｜Onboard with xData and start earn by collecting data](https://www.youtube.com/watch?v=IMuryfIEHas)
+
+## KIP Protocol
+
+- [Workshop｜Decentralized AI Product Deployment with KIP Protocol](https://www.youtube.com/live/KUq3Tjzff8I?feature=shared)
+
+## Aptos
+
+- [Build On Aptos - Comparing & Contrasting](https://youtu.be/8-IiZflyXIs?feature=shared)
 
 ## NEO
 
