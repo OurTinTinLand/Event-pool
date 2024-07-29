@@ -21,3 +21,7 @@
 ### TinTin Job Fair # 4
 
 - [Web3招聘季：Web3行业的核心技能和人才需求](https://www.youtube.com/watch?v=kLOR2AQHlE8&list=PLCv99tqIzSwkYT5WlfAO4UAGNOz9D1-Hw&index=7)
+
+### TinTin Job Fair # 5
+
+- [职业前景探讨：Web3行业的“星辰大海”在哪里？(https://www.youtube.com/watch?v=p8k47cB9AyI)
