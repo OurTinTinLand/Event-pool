@@ -24,4 +24,4 @@
 
 ### TinTin Job Fair # 5
 
-- [职业前景探讨：Web3行业的“星辰大海”在哪里？(https://www.youtube.com/watch?v=p8k47cB9AyI)
+- [职业前景探讨：Web3行业的“星辰大海”在哪里？](https://www.youtube.com/watch?v=p8k47cB9AyI)
