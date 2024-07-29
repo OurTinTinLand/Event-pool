@@ -93,6 +93,9 @@
 
 - [新的市场环境下公链如何找到生态建设的最佳实践？](https://twitter.com/i/spaces/1yoJMZEvrbNxQ)
 
+-  [Layer1 公链在未来1-2年内会有哪些关键变化？](https://x.com/i/spaces/1nAJEagMwBAJL/peek)
+
+
 ## DAO/开发者话题
 
 - [探索 Web3 和 DAO：来自知名 DAO 组织的见解](https://twitter.com/i/spaces/1gqxvyogyrOJB)
@@ -104,3 +107,5 @@
 - [2023年哪些 Web3 叙事最有可能掀起新一轮市场热潮？](https://twitter.com/i/spaces/1lDGLnXQEEmxm)
 
 - [On the eve of the Spring Festival: Sharing session on exploring the road to cryptocurrency and future trends](https://twitter.com/i/spaces/1ypKdknbDDnxW)
+
+- [Airdrop 2049：全新周期下，空投的机遇与挑战](https://x.com/i/spaces/1DXGydwnrvWKM/peek)
