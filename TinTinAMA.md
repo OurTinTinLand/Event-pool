@@ -27,3 +27,7 @@
 - [Unveiling 0G Labs: A Deep Dive into the Fastest Modular AI Chain](https://twitter.com/i/spaces/1vOGwjMzzzMKB)
 
 - [KIP Protocol: Pioneer in Decentralized AI](https://twitter.com/i/spaces/1DXxyjjrwRdKM)
+
+- [Meet TARS: The Modular AI Platform Empowering the Web3 Transition](https://twitter.com/i/spaces/1ZkKzjRdDjDKv)
+
+- [Nesa: The next frontier for trustworthy AI? ](https://twitter.com/i/spaces/1lPJqbMRWmQxb)
