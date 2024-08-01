@@ -14,7 +14,7 @@
 
 - [【话题讨论｜人工智能时代：机遇还是威胁？探讨 AI 对日常生活的真实影响】](https://www.bilibili.com/video/BV14x421y7Zn/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
-- [【社区话题讨论｜马斯克与Web3：激进创新还是市场操纵？】](https://www.bilibili.com/video/BV1HmvYeCEuN/?vd_source=97234dbaec28e59f20375df9a3daa0ce)
+- [【话题讨论｜马斯克与Web3：激进创新还是市场操纵？】](https://www.bilibili.com/video/BV1HmvYeCEuN/?vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
 ## 社区话题分享
 
