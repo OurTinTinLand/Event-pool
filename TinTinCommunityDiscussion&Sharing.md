@@ -14,11 +14,15 @@
 
 - [【话题讨论｜人工智能时代：机遇还是威胁？探讨 AI 对日常生活的真实影响】](https://www.bilibili.com/video/BV14x421y7Zn/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
+- [【社区话题讨论｜马斯克与Web3：激进创新还是市场操纵？】](https://www.bilibili.com/video/BV1HmvYeCEuN/?vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
 ## 社区话题分享
 
 - [【主题分享｜链上旅程：回顾Web3一年的重要时刻】](https://www.bilibili.com/video/BV1HW4y1A7dK/?spm_id_from=333.788&vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
 - [【主题分享｜Web3er专场：TinTinLand社区资源全览与使用指南揭秘】](https://www.bilibili.com/video/BV14H4y1P7eX/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
+- [【话题分享｜Sui Overflow Hackathon 获奖者分享：跨越 Web2 到 Web3 的开发壁垒】](https://www.bilibili.com/video/BV1Zw4m1r7mF/?vd_source=97234dbaec28e59f20375df9a3daa0ce#reply1106285111)
 
 ## 社区用户分享
 
