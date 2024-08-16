@@ -1,12 +1,12 @@
 # TinTin AMA
 
-- [BubbleAI AMA：区块链外链数据的未来](https://twitter.com/i/spaces/1yoJMwReoQDKQ)
+- [Mina Protocol：以"万物证明"构建一个植根于信任和可验证的互联网](https://twitter.com/i/spaces/1OdKrXlYokvJX)
 
-- [ForthTech AMA：Web3的合规风险与应对：数字资产保值增值的最佳策略与实践](https://twitter.com/i/spaces/1lPKqbNVADEGb)
+- [KIP Protocol: Pioneer in Decentralized AI](https://twitter.com/i/spaces/1DXxyjjrwRdKM)
 
-- [用 Viction 开启未来：探索 Web3 的愿景、协作和创新](https://twitter.com/OurTinTinLand/status/1730194269632377228)
+- [Meet TARS: The Modular AI Platform Empowering the Web3 Transition](https://twitter.com/i/spaces/1ZkKzjRdDjDKv)
 
-- [Aptos 如何接下来一年在亚洲和中文区发力？](https://twitter.com/i/spaces/1YqxoDPQVdvKv)
+- [Nesa: The next frontier for trustworthy AI? ](https://twitter.com/i/spaces/1lPJqbMRWmQxb)
 
 - [Solana 新趋势：解决挑战，拓展可能](https://twitter.com/i/spaces/1yNGaZeRvNnJj)
 
@@ -26,8 +26,10 @@
 
 - [Unveiling 0G Labs: A Deep Dive into the Fastest Modular AI Chain](https://twitter.com/i/spaces/1vOGwjMzzzMKB)
 
-- [KIP Protocol: Pioneer in Decentralized AI](https://twitter.com/i/spaces/1DXxyjjrwRdKM)
+- [BubbleAI AMA：区块链外链数据的未来](https://twitter.com/i/spaces/1yoJMwReoQDKQ)
 
-- [Meet TARS: The Modular AI Platform Empowering the Web3 Transition](https://twitter.com/i/spaces/1ZkKzjRdDjDKv)
+- [ForthTech AMA：Web3的合规风险与应对：数字资产保值增值的最佳策略与实践](https://twitter.com/i/spaces/1lPKqbNVADEGb)
 
-- [Nesa: The next frontier for trustworthy AI? ](https://twitter.com/i/spaces/1lPJqbMRWmQxb)
+- [用 Viction 开启未来：探索 Web3 的愿景、协作和创新](https://twitter.com/OurTinTinLand/status/1730194269632377228)
+
+- [Aptos 如何接下来一年在亚洲和中文区发力？](https://twitter.com/i/spaces/1YqxoDPQVdvKv)
