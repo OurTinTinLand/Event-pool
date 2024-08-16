@@ -95,7 +95,6 @@
 
 -  [Layer1 公链在未来1-2年内会有哪些关键变化？](https://x.com/i/spaces/1nAJEagMwBAJL/peek)
 
-
 ## DAO/开发者话题
 
 - [探索 Web3 和 DAO：来自知名 DAO 组织的见解](https://twitter.com/i/spaces/1gqxvyogyrOJB)
@@ -103,6 +102,8 @@
 - [Web3 项目社区治理：是时候让社区接管了吗？](https://twitter.com/i/spaces/1OwGWYlgMBwxQ)
 
 ## 叙事/新趋势话题
+
+- [超越炒作： 如何构建可持续的 Web3 项目？创业者、投资者的有效策略](https://twitter.com/i/spaces/1YqGovqmNmzKv)
 
 - [2023年哪些 Web3 叙事最有可能掀起新一轮市场热潮？](https://twitter.com/i/spaces/1lDGLnXQEEmxm)
 
