@@ -1,3 +1,81 @@
+# TinTinLand Web3 + DePIN Learning Month
+
+📢 #TinTinLandWeb3LearningMonth Season 2 is here with a bang!
+
+🔥 Since the #Token2049 conference, the #DePIN track has grown explosive and become a key focus in the Web3 industry! This learning month, we delve into four Web3 + DePIN projects, expanding your knowledge of decentralized networks!
+
+🎨 Event Theme
+TinTinLand Web3 + DePIN Learning Month — An In-depth Exploration of Four Web3 + DePIN Projects, Expanding Knowledge on Decentralized Networks
+
+⏳ Event Schedule: August 19 — September 15
+
+🗓 Learning Calendar
+➤ Week 1 (August 19 to August 25) — DePHY
+
+➤ Week 2 (August 26 to September 1) — IoTeX
+
+➤ Week 3 (September 2 to September 8) — CESS Network
+
+➤ Week 4 (September 9 to September 15) — Phala Network
+
+🤝 Don't miss this chance to interact directly with leading projects and grow together!
+
+🎁 Participate and win TinTin community Zealy points and exciting project rewards! Points can be redeemed for amazing prizes: token incentives, job referrals, course vouchers, top project resources, whitelist spots, merchandise, and more. The top 10 on the annual XP leaderboard will share a prize pool of $1600!
+
+🏃Join zealy mission board to win XP: https://zealy.io/cw/tintinland/questboard
+
+## TinTinLand X DePHY
+
+📢 The preview for the first week of the #TinTinLandWeb3 Learning Month Season 2 is here! Let’s dive into the intersection of #DePIN and #Web3 together!
+
+Image description
+
+📅 Week 1 (August 19 - August 25) will focus on @dephynetwork miss the exciting activities!
+
+⏰ Monday, August 19
+
+Zealy task board launched：
+
+View DePHY's Website、Join DePHY Discord、Follow DePHY's X、Watch Youtube Workshop、Complete the learning tasks and share them on Twitter、Follow Github, and uploaded screenshot
+
+⏰ Tuesday, August 20, 21:00 UTC+8
+
+AMA: Dialogue with DePHY: The perfect combination of open source hardware and blockchain
+
+🔗Twitter space: https://x.com/i/spaces/1rmxPolEwMbJN/peek
+
+Image description
+
+⏰ Wednesday, August 21
+
+Mini tutorial videos：
+
+### Depin Basics
+- What is DePIN
+- DePIN Architecture
+- Origin of DePIN
+- DePIN Basic Architecture
+- DePIN Sector Map
+- DePIN Solution
+- Notable DePIN Projects
+
+### Getting Started with DePHY Exploration
+- What is DID
+- How does DePHY work
+- Dephy Ecosystem
+- Dephy Dev Tools
+
+⏰ Thursday, August 22, 21:00 UTC+8
+
+Workshop: Learn DePHY From Zero To Hero
+
+📺 YouTube：https://youtube.com/live/2TxYOSu0f0E?feature=share
+
+Image description
+
+🛠️ Join our Discord to learn more: https://discord.gg/65N69bdsKw
+
+
 # TinTinLand Web3 + AI Learning Month
 
 🚀 “TinTinLand Web3 + AI Learning Month.” LAUNCHED!!🚀 Please check the activity details, developers!
