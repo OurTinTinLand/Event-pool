@@ -10,6 +10,7 @@ TinTinLand Web3 + DePIN Learning Month — An In-depth Exploration of Four Web3 
 ⏳ Event Schedule: August 19 — September 15
 
 🗓 Learning Calendar
+
 ➤ Week 1 (August 19 to August 25) — DePHY
 
 ➤ Week 2 (August 26 to September 1) — IoTeX
