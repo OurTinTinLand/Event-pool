@@ -2,6 +2,8 @@
 
 ## 社区话题讨论
 
+- [【话题讨论｜川普家族与加密市场：财富密码还是政客秀场？】](https://www.bilibili.com/video/BV1Daebe5EWE/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
 - [【话题讨论｜探讨Web3项目的发展关键：社区生态还是经济模型？】](https://www.bilibili.com/video/BV1BH4y1z718/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
 - [【话题讨论｜SocialFi in Web3 : 开启社交新纪元】](https://www.bilibili.com/video/BV1Xc411o7yS/?spm_id_from=333.788&vd_source=97234dbaec28e59f20375df9a3daa0ce)
@@ -31,3 +33,7 @@
 - [【社区用户分享会｜对话Rust挑战赛之星：技能与创意之旅】](https://www.bilibili.com/video/BV1Dj411t7VW/?spm_id_from=333.788&vd_source=97234dbaec28e59f20375df9a3daa0ce)
 
 - [【社区用户分享会｜就业季即将来临，如何正确入圈Web3？】](https://www.bilibili.com/video/BV1n2421F78U/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
+- [【社区用户分享会｜写给职场人的 AI 办公手册——如何与 AI 高效对话】](https://www.bilibili.com/video/BV1kbeEevEZ1/?spm_id_from=333.999.0.0&vd_source=97234dbaec28e59f20375df9a3daa0ce)
+
+
