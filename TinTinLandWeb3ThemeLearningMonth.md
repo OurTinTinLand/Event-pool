@@ -29,8 +29,6 @@ TinTinLand Web3 + DePIN Learning Month — An In-depth Exploration of Four Web3 
 
 📢 The preview for the first week of the #TinTinLandWeb3 Learning Month Season 2 is here! Let’s dive into the intersection of #DePIN and #Web3 together!
 
-Image description
-
 📅 Week 1 (August 19 - August 25) will focus on @dephynetwork miss the exciting activities!
 
 ⏰ Monday, August 19
@@ -44,8 +42,6 @@ View DePHY's Website、Join DePHY Discord、Follow DePHY's X、Watch Youtube Wor
 AMA: Dialogue with DePHY: The perfect combination of open source hardware and blockchain
 
 🔗Twitter space: https://x.com/i/spaces/1rmxPolEwMbJN/peek
-
-Image description
 
 ⏰ Wednesday, August 21
 
@@ -72,9 +68,44 @@ Workshop: Learn DePHY From Zero To Hero
 
 📺 YouTube：https://youtube.com/live/2TxYOSu0f0E?feature=share
 
-Image description
-
 🛠️ Join our Discord to learn more: https://discord.gg/65N69bdsKw
+
+## TinTinLand X IoTeX
+
+📚 The second week of the #TinTinLandWeb3LearningMonth initiated by #TinTinLand is in full swing!
+
+📅 In the second week (August 26th to August 30th), @iotex_io will bring exciting online AMA, Workshop, and Zealy learning tasks.
+
+⏰ Monday, August 26
+
+Zealy task board launched：
+
+Follow IoTeX's Twitter、Join IoTeX's Discord、Join IoTeX's AMA and join the workshop、Quote repost of AMA and Workshop tagging @iotex_dev、Subscribe to the newsletter on IoTeX、Create and post a youtube video tutorial/walkthrough based on the workshop content
+
+⏰ Tuesday, August 27, 21:00 UTC+8、
+
+AMA: How does IoTeX empower the next generation of DePIN?
+
+🔗https://twitter.com/i/spaces/1ypJdpWNrERJW
+
+⏰ Thursday, August  29 , 21:00 UTC+8
+
+Workshop: Build an end-to-end DePIN project on IoTeX
+
+📺https://youtube.com/live/ph1QZLasRp4?feature=share
+
+⏰ Friday, August  30
+
+Mini tutorial videos：
+
+How would you go about building an end-to-end DePIN project with the IoTeX stack? 
+
+The registration, setup and operational processes involved deploying a DeWi network on IoTeX
+
+🛠️ Participate to earn #TinTinZealy points and exciting rewards, including Tokens, job opportunities, and more! The top 10 on the annual leaderboard will share 1600U! Join Zealy now to participate in the co-learning tasks: https://zealy.io/cw/tintinland/questboard
+
+🎁 Special Alert: Among those who complete the video production task, 5 lucky participants will win an IoTeX x Ledger limited edition hardware wallet—Ledger Nano S! Don’t miss this opportunity!
+👉 Join the Web3-DePIN channel on Discord to participate in the activities: https://discord.gg/65N69bdsKw
 
 
 # TinTinLand Web3 + AI Learning Month
