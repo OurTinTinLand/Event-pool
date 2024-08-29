@@ -107,6 +107,64 @@ The registration, setup and operational processes involved deploying a DeWi netw
 🎁 Special Alert: Among those who complete the video production task, 5 lucky participants will win an IoTeX x Ledger limited edition hardware wallet—Ledger Nano S! Don’t miss this opportunity!
 👉 Join the Web3-DePIN channel on Discord to participate in the activities: https://discord.gg/65N69bdsKw
 
+## TinTinLand X CESS Network
+
+🛰The second phase of the #TinTinLandWeb3LearningMonth, initiated by #TinTinLand, has successfully entered its third week!
+
+📅 During Week 3 (September 2nd to 8th), @CESS_Storage will be hosting an exciting series of online events, including an AMA, Workshop, and Zealy learning tasks.
+
+🧬 September 2, Monday
+Zealy Task Board Launch:
+
+Follow CESS on Twitter, join CESS’s Discord, visit the CESS website, read the CESS whitepaper, answer 3 questions, subscribe to the CESS newsletter, create a CESS wallet account, and run a node.
+
+🏺 September 3, Tuesday, 21:00 UTC+8
+
+AMA: From Infrastructure to Innovation: How CESS is Redefining Decentralized Data
+
+🔗 Twitter Space: https://twitter.com/i/spaces/1mnGeAZoNWbGX
+
+🧸 September 4, Wednesday
+
+After the AMA event and in-depth discussion with the guest about defining decentralized networks, learn more about the CESS network and its core components through video tutorials👇
+
+Video Tutorials:
+
+- CESS introduction
+- DeOSS introduction
+- DeOSS REST API
+- Consensus Node Setup
+- Storage Node Setup
+
+September 5, Thursday, 21:00 UTC+8
+
+Workshop: Building the Future: Implementing Decentralized Solutions with CESS
+
+🗒️Outline:
+
+🎛️ CESS Introduction
+
+- CESS Network Architecture
+- Industry Challenges and CESS Solutions
+- What Makes CESS Stand Out?
+
+🧲 How to Start Building on the CESS Network
+
+- DeOSS Introduction
+- DeOSS HTTP API
+
+🔗 Join the interaction via YouTube:
+
+https://youtube.com/live/qfpEOguKM1s?feature=share
+
+Join the TinTinLand Discord, participate in the TinTinZealy task board, and learn and check in together!
+
+🔗 TInTInland Discord：https://discord.com/invite/65N69bdsKw
+
+🔗 Zealy：https://zealy.io/cw/tintinland/questboard
+
+Complete tasks to win #TinTinZealy points and generous rewards, including tokens and job opportunities. The top 10 of the year will also have the chance to share a $1,600 cash prize!
+
 
 # TinTinLand Web3 + AI Learning Month
 
