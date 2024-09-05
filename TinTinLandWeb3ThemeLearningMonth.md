@@ -165,6 +165,44 @@ Join the TinTinLand Discord, participate in the TinTinZealy task board, and lear
 
 Complete tasks to win #TinTinZealy points and generous rewards, including tokens and job opportunities. The top 10 of the year will also have the chance to share a $1,600 cash prize!
 
+## TinTinLand X Phala Network
+
+💥The second phase of the #TinTinLandWeb3LearningMonth, initiated by #TinTinLand, has entered its final week, with a special focus on TEE and decentralized AI agent technology!
+
+📅 In Week 4 (September 9 to September 15), @PhalaNetwork will present exciting online AMAs, workshops, and Zealy learning challenges.
+
+⏰ Monday, September 9
+
+Zealy task board launched：
+
+Follow Phala Network's Twitter、Join Phala Network's Discord、Join the Phala Network's AMA、Watch Phala Network's YouTube Workshop、Learned Mini tutorial videos, and share it on Twitter、Subscribe Phala Network's Newsletter、Build an AI Agent Contract and share on Twitter、Write a Twitter post to explain the use cases of TEE on Web3
+
+⏰ Tuesday, September 10, 21:00 UTC+8
+
+AMA: TEE and Verifiable Offchain Computing: The Innovation Journey of Phala Network
+
+🔗https://twitter.com/i/spaces/1OwxWNyRMZjJQ
+
+⏰ Wednesday, September 11, 21:00 UTC+8
+
+Workshop: Build Decentralized AI Agent with Phala Network
+
+📚 Outline：
+✦ Build and Deploy an AI Agent Contract using RedPill AI Agent Contract Template
+✦ Explore AI Agent Contract Tools to Derive Keypairs, Sign/Verify Data & Send Onchain TXs
+
+📺 YouTube：https://youtube.com/live/udYQ9DIbGYM?feature=share
+
+⏰ Thursday, September 12
+
+Mini tutorial videos：
+- How to build a decentralized AI Agent using ChatGPT and Phala
+- How to build an onchain verifiable AI Agent using Phala
+
+🛠️ Participate to earn #TinTinZealy points and exciting rewards, including Tokens, job opportunities, and more! The top 10 on the annual leaderboard will share 1600U! Join Zealy now to participate in the co-learning tasks: https://zealy.io/cw/tintinland/questboard
+
+👉 Join the Web3-DePIN channel on Discord to participate in the activities: https://discord.gg/65N69bdsKw
+
 
 # TinTinLand Web3 + AI Learning Month
 
