@@ -188,7 +188,9 @@ AMA: TEE and Verifiable Offchain Computing: The Innovation Journey of Phala Netw
 Workshop: Build Decentralized AI Agent with Phala Network
 
 📚 Outline：
+
 ✦ Build and Deploy an AI Agent Contract using RedPill AI Agent Contract Template
+
 ✦ Explore AI Agent Contract Tools to Derive Keypairs, Sign/Verify Data & Send Onchain TXs
 
 📺 YouTube：https://youtube.com/live/udYQ9DIbGYM?feature=share
